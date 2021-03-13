@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringbootHibernateProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: user
+Implementation-Vendor-Id: com.javabykiran
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://spring.io/projects/spring-boot/SpringbootH
+ ibernateProject
+Created-By: Maven Integration for Eclipse
+
