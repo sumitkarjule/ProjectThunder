@@ -91,4 +91,10 @@ public class SpringController {
 		List<Registration> regList =service.listOfRegisteredUsers();
 	return regList;	
 	}
-	}
+
+public static void main(String[] args) {
+System.out.println("SUMIT");}
+}
+
+
+
